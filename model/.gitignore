@@ -1,0 +1,64 @@
+# Python Bytecode files
+__pycache__/
+*.py[cod]
+*$py.class
+
+# Distribution / packaging
+.Python
+build/
+dist/
+*.egg-info/
+
+# Virtual Environment
+venv/
+ENV/
+env/
+.venv/
+
+# IDE / Editor folders
+.vscode/
+.idea/
+*.swp
+
+# Pytest cache
+.cache/
+
+# Python egg metadata
+.eggs/
+
+# Jupyter Notebook checkpoints
+.ipynb_checkpoints
+
+# mypy
+.mypy_cache/
+
+# Pyre type checker
+.pyre/
+
+# Pylint
+.pylint.d/
+
+# Coverage reports
+.coverage
+.coverage.*
+*.hypothesis/
+
+# Local env files
+.env
+*.env
+
+# Operating System files
+.DS_Store
+Thumbs.db
+
+# Logs
+*.log
+
+# Temporary files
+*.bak
+*.swp
+*.swo
+
+# Other files that should not be included in version control
+*.db
+*.sqlite
